@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6917419316:AAHqULWU_oi_yK1NIZYShV5Ro4HfcPolLlI')
+bot = telebot.TeleBot('TOKEN')
 
 user_messages = {}
 
